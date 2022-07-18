@@ -20,3 +20,9 @@
   <img align="center" alt="levifmorais-PythonIcone" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="levifmorais-GodotIcone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;">
 </div>
+
+##
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&width=450&lines=Aprendendo+sempre%2C+um+dia+de+cada+vez."
+</div>
