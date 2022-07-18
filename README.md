@@ -1,6 +1,6 @@
 [![banner-1.png](https://i.postimg.cc/DftDG0c6/banner-1.png)](https://github.com/levifmorais)
 
-### <p align="center">Atualmente sou estudante da Universidade Federal do Ceará, no curso de Sistemas e Mídias Digitais! Aprendendo cada vez mais sobre Sistemas, focando em Desenvolvimento Web e Desenvolvimentos de Jogos.</p>
+### <p align="center">Atualmente sou estudante da Universidade Federal do Ceará, no curso de Sistemas e Mídias Digitais! <br></br> Aprendendo cada vez mais sobre Sistemas, focando em Desenvolvimento Web e Desenvolvimentos de Jogos.</p>
 
 ##
 
