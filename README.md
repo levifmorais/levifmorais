@@ -1,10 +1,10 @@
 [![banner-1.png](https://i.postimg.cc/DftDG0c6/banner-1.png)](https://github.com/levifmorais)
 
-#### <p align="center">Atualmente sou estudante da Universidade Federal do Ceará, no curso de Sistemas e Mídias Digitais! Aprendendo cada vez mais sobre Sistemas, focando em Desenvolvimento Web e Desenvolvimentos de Jogos.</p>
+### <p align="center">Atualmente sou estudante da Universidade Federal do Ceará, no curso de Sistemas e Mídias Digitais! Aprendendo cada vez mais sobre Sistemas, focando em Desenvolvimento Web e Desenvolvimentos de Jogos.</p>
 
 ##
 
-#### Linguagens e Ferramentas utilizadas 🚀
+### Linguagens e Ferramentas utilizadas 🚀
 <div align="center">
 <a href="https://github.com/levifmorais">
 <img alt="Stats do GitHub de levifmorais" src="https://github-readme-stats.vercel.app/api?username=levifmorais&show_icons=true&theme=dark"></img>
