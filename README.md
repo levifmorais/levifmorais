@@ -7,8 +7,8 @@
 #### Linguagens e Ferramentas utilizadas 🚀
 <div align="center">
 <a href="https://github.com/levifmorais">
-<img height="180em" alt="Stats do GitHub de levifmorais" src="https://github-readme-stats.vercel.app/api?username=levifmorais&show_icons=true&theme=dark"></img>
-<img height="180em" alt="Linguagens mais usadas de levifmorais" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifmorais&layout=compact&theme=dark"></img>
+<img alt="Stats do GitHub de levifmorais" src="https://github-readme-stats.vercel.app/api?username=levifmorais&show_icons=true&theme=dark"></img>
+<img alt="Linguagens mais usadas de levifmorais" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifmorais&layout=compact&theme=dark"></img>
 </div>
 
 <div align="center" dir="auto"><br>
