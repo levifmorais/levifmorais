@@ -20,7 +20,7 @@
   <img align="center" alt="levifmorais-PythonIcone" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="levifmorais-GodotIcone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;">
   
-  <img align="right" alt="levifmorais-gif" height="150" src="https://i.postimg.cc/yddxh7qX/logo500.gif" style="max-width: 100%;">
+  <img align="right" alt="levifmorais-gif" height="150" src="https://i.postimg.cc/jSjZwkZV/logoo500.gif" style="max-width: 100%;">
 
 </div>
 
