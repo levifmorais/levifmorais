@@ -11,7 +11,7 @@
 <img  height="180em" alt="Linguagens mais usadas de levifmorais" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifmorais&theme=dark&layout=compact"></img>
 </div>
 
-<div dir="auto"><br>
+<div style="display: inline_block"><br>
   <img align="center" style="max-width:100%;" height="30" width="40" alt="levifmorais-VSCodeIcone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" style="max-width:100%;" height="30" width="40" alt="levifmorais-JavaIcone" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>     
   <img align="center" alt="levifmorais-JsIcone" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
