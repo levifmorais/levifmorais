@@ -5,10 +5,10 @@
 ##
 
 ### Linguagens e Ferramentas utilizadas 🚀
-<div align="center">
+<div dir="auto">
 <a href="https://github.com/levifmorais">
-<img alt="Stats do GitHub de levifmorais" src="https://github-readme-stats.vercel.app/api?username=levifmorais&show_icons=true&theme=dark"></img>
-<img alt="Linguagens mais usadas de levifmorais" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifmorais&theme=dark&layout=compact"></img>
+<img  alt="Stats do GitHub de levifmorais" src="https://github-readme-stats.vercel.app/api?username=levifmorais&show_icons=true&theme=dark"></img>
+<img align="right" alt="Linguagens mais usadas de levifmorais" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifmorais&theme=dark&layout=compact"></img>
 </div>
 
 <div dir="auto"><br>
