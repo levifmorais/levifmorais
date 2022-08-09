@@ -21,8 +21,8 @@
   <img align="center" alt="levifmorais-GodotIcone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;">
   
   
-  ![](https://i.postimg.cc/jSjZwkZV/logoo500.gif)
-  <!-- <img align="right" alt="levifmorais-gif" height="150" src="https://i.postimg.cc/jSjZwkZV/logoo500.gif" style="max-width: 100%; display: unset !important;"> -->
+  [![logoo500.gif](https://i.postimg.cc/RZgCsTcr/logoo500.gif)](https://postimg.cc/xXbSqMxg)
+  <img align="right" alt="levifmorais-gif" height="150" src="https://i.postimg.cc/jSjZwkZV/logoo500.gif" style="max-width: 100%; display: unset !important;">
   
 </div>
 
