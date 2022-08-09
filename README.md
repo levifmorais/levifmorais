@@ -21,7 +21,7 @@
   <img align="center" alt="levifmorais-GodotIcone" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="max-width: 100%;">
   
   
-  <img align="right" alt="levifmorais-gif" height="150" src="https://i.postimg.cc/jSjZwkZV/logoo500.gif">
+  <img align="right" alt="levifmorais-gif" height="150" src="https://i.postimg.cc/8cYShT9j/logo.png">
   
 </div>
 
